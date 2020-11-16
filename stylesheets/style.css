@@ -10,7 +10,6 @@ canvas {
 	/* vertical-align: bottom; */
 }
 
-
 /* ---- particles.js container ---- */
 
 #particles-js {
@@ -20,6 +19,56 @@ canvas {
 	background-color: #232741;
 	background-image: url("../images/icon_w.png");
 	background-repeat: no-repeat;
-	background-size: 20%;
-	background-position: 50% 40%;
+	background-size: 22%;
+	background-position: 50% 15%;
+}
+
+#particles-js .center {
+	position: absolute;
+	left: 50%;
+	top: 75%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+#particles-js .center h1 {
+	font-size: 32px;
+}
+
+#particles-js .center h3 {
+	font-size: 28px;
+}
+
+#particles-js .center a {
+	color: white;
+	opacity: 0.8;
+	font-size: 65px;
+	letter-spacing: 35px;
+}
+
+#particles-js .center a:hover {
+	opacity: 1;
+}
+
+@media only screen and (max-width: 600px) {
+	#particles-js .center h1 {
+		font-size: 20px;
+	}
+	
+	#particles-js .center h3 {
+		font-size: 17px;
+	}
+
+	#particles-js .center a {
+		color: white;
+		opacity: 0.8;
+		font-size: 40px;
+		letter-spacing: 15px;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	#particles-js {
+		background-size: 75%;
+	}
 }
