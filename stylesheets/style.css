@@ -21,6 +21,7 @@ canvas {
 	background-repeat: no-repeat;
 	background-size: 22%;
 	background-position: 50% 15%;
+	opacity: 0.95;
 }
 
 #particles-js .center {
@@ -29,6 +30,7 @@ canvas {
 	top: 75%;
 	transform: translate(-50%, -50%);
 	text-align: center;
+	color: white;
 }
 
 #particles-js .center h1 {
@@ -41,7 +43,7 @@ canvas {
 
 #particles-js .center a {
 	color: white;
-	opacity: 0.8;
+	opacity: 0.85;
 	font-size: 65px;
 	letter-spacing: 35px;
 }
@@ -60,8 +62,6 @@ canvas {
 	}
 
 	#particles-js .center a {
-		color: white;
-		opacity: 0.8;
 		font-size: 40px;
 		letter-spacing: 15px;
 	}
