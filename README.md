@@ -2,7 +2,7 @@
 
 # HeroCTF
 
-**Voici le site web d'HeroCTF entre 2 évènements.**
+**Landpage website for HeroCTF between 2 events.**
 
 Website : https://www.heroctf.fr/ <br>
 Twitter : https://twitter.com/HeroCTF <br>
