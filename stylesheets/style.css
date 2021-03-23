@@ -10,6 +10,11 @@ canvas {
 	/* vertical-align: bottom; */
 }
 
+.mention a {
+	text-decoration: underline;
+	color: white;
+}
+
 /* ---- particles.js container ---- */
 
 #particles-js {
@@ -41,7 +46,7 @@ canvas {
 	font-size: 28px;
 }
 
-#particles-js .center a {
+#particles-js .center .icon {
 	color: white;
 	opacity: 0.85;
 	font-size: 65px;
