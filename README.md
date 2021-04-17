@@ -6,7 +6,7 @@
 
 Website : https://www.heroctf.fr/ <br>
 Twitter : https://twitter.com/HeroCTF <br>
-Discord : https://discord.gg/PhNkPrfeJG
+Discord : https://discord.gg/mgk9bv7
 
 ### Made with
 
