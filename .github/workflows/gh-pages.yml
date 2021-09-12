@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - gohugo
+      - master
   pull_request:
 
 jobs:
