@@ -1,13 +1,7 @@
-![banner](https://pbs.twimg.com/profile_banners/815907006708060160/1586530306/1500x500)
+# HeroCTF static website
 
-# HeroCTF
+Docs : https://docs.gethugothemes.com/andromeda/
 
-**Landpage website for HeroCTF between 2 events.**
+## Credits 
 
-Website : https://www.heroctf.fr/ <br>
-Twitter : https://twitter.com/HeroCTF <br>
-Discord : https://discord.gg/mgk9bv7
-
-### Made with
-
-* [particle.js](https://vincentgarreau.com/particles.js/)
+- https://fr.freepik.com/vecteurs-libre/developpeurs-robot-travaillent-ordinateur-portable-loupe-cybersecurite-industrielle-malware-robotique-industrielle-sauvegarde-du-concept-robotique-industrielle-illustration-isolee-violette-vibrante-lumineuse_10780568.htm

@@ -1,0 +1,27 @@
+# main menu
+[[main]]
+name = "About"
+url = "about/"
+weight = 1
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 3
