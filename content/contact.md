@@ -1,5 +1,5 @@
 ---
-title: "contact"
+title: "HeroCTF - Contact"
 layout: "contact"
 draft: false
 

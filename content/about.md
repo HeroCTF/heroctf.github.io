@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "HeroCTF - About"
 layout: "about"
 draft: false
 
