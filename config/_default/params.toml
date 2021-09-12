@@ -8,7 +8,7 @@ logo_width = "auto"
 # logo text will only show when logo is missing.
 logo_text = "HeroCTF"
 # OpenGraph / Twitter Card metadata
-description = "HeroCTF - Online Cybersecurity Competition"
+description = "HeroCTF is an online cybersecurity competition for beginners and intermediates that takes place once a year."
 author = "xanhacks"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 
