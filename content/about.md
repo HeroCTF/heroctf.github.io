@@ -75,7 +75,7 @@ our_team:
     designation: "Cybersecurity Engineer Apprentice at ENSIBS"
   - name: "Log_s"
     image: "images/about/team/Log_s.png"
-    designation: "Cybersecurity Engineer Apprentice at ENSIBS"
+    designation: "Winner of the two first HeroCTF editions, has been working on the HeroCTF since v3, mainly on creating systems and programming challenges. Also treasurer and working on partnerships."
   - name: "Thib"
     image: "images/about/team/Thib.jpg"
     designation: "Cybersecurity Engineer Apprentice at ENSIBS"
