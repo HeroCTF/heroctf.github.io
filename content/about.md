@@ -62,7 +62,7 @@ our_team:
   enable: true
   subtitle: "Our members"
   title: "The People Behind"
-  description: "We are a team of 7 cybersecurity engineering students. We study in 3 different French engineering schools, namely ENSIBS, ESNA and ESIEA. We work on this event in our spare time."
+  description: "We are a team of 7 cybersecurity engineering students. We study in 3 different French engineering schools, namely ENSIBS, ESNA and ESIEA.<br>We work on this event in our spare time."
   team:
   - name: "xanhacks"
     image: "images/about/team/xanhacks.png"
