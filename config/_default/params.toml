@@ -84,3 +84,8 @@ link = "https://twitter.com/HeroCTF"
 title = "Github"
 icon = "lab la-github" # https://icons8.com/line-awesome
 link = "https://github.com/HeroCTF"
+
+[[social]]
+title = "Linkedin"
+icon = "lab la-linkedin" # https://icons8.com/line-awesome
+link = "https://www.linkedin.com/company/heroctf/"
