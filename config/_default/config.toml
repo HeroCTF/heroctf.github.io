@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost:1313/"
+baseURL = "https://www.heroctf.fr/"
 title = "HeroCTF - Online Cybersecurity Competition"
 theme = "andromeda-light"
 # post pagination
