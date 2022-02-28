@@ -2,6 +2,7 @@
 # banner
 banner:
   title: "HeroCTF - Online cybersecurity competition"
+  date: "27 - 29 May 2022"
   button: "Join discord"
   button_link: "https://discord.gg/mgk9bv7"
   image: "images/banner-cybersecurity.png"
