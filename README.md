@@ -4,6 +4,8 @@ Static website made with [gohugo](https://gohugo.io/).
 
 ## Get started
 
+You can download `hugo` binary on [Github](https://github.com/gohugoio/hugo/releases).
+
 ```bash
 $ git clone --depth=1 https://github.com/HeroCTF/heroctf.github.io
 Cloning into 'heroctf.github.io'...
