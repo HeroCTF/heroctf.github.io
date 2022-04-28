@@ -24,7 +24,7 @@ features:
   enable: true
   subtitle: "Next Edition"
   title: "HeroCTF v4 is under construction"
-  description: "After the great success of the 3rd edition,<br>we are already preparing the 4th edition which should be ready in early April 2022."
+  description: "After the great success of the 3rd edition,<br>we are already preparing the 4th edition which should be ready for the end of May 2022."
   features_blocks:
   - icon: "las la-book"
     title: "Learn"
