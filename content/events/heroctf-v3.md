@@ -29,6 +29,9 @@ our_team:
   - name: "Root-me"
     image: "images/brands/logo-rootme.png"
     designation: "Classic Sponsor"
+  - name: "Google Cloud"
+    image: "images/brands/logo-gcp.png"
+    designation: "Classic Sponsor"
 
 # our office
 our_office:

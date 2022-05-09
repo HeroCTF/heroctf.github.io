@@ -16,15 +16,17 @@ brands_carousel:
   - "images/brands/logo-thm.png"
   - "images/brands/logo-rootme.png"
   - "images/brands/logo-gcp.png"
-  - "images/brands/logo-ctfd.png"
-
+  - "images/brands/logo-bzhunt.png"
+  - "images/brands/logo-ywh.png"
+  - "images/brands/logo-ledger.png"
+  - "images/brands/logo-algosecure.png"
 
 # features
 features:
   enable: true
   subtitle: "Next Edition"
-  title: "HeroCTF v4 is under construction"
-  description: "After the great success of the 3rd edition,<br>we are already preparing the 4th edition which should be ready for the end of May 2022."
+  title: "Registration for HeroCTF v4 is now open"
+  description: "After the great success of HeroCTF v3, we decided to continue the adventure with HeroCTF v4 !<br>Registration is now open on the CTF website !"
   features_blocks:
   - icon: "las la-book"
     title: "Learn"
