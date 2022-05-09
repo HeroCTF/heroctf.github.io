@@ -224,7 +224,7 @@
             {{ if fileExists (add `assets/` .image) }}
             {{$img:= resources.Get .image }}
             {{$img:= $img.Resize "175x "}}
-            {{$imgWebp:= $img.Resize "175x webp"}}
+            <!-- {{$imgWebp:= $img.Resize "175x webp"}} -->
             <img loading="lazy" decoding="async" class="w-1000 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Team Image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
           </div>

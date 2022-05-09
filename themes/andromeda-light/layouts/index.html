@@ -61,8 +61,8 @@
                 {{$img_orginal := add (add (string $img_width) "x") " " }}
                 {{$img_src := ($img.Resize $img_orginal).RelPermalink }}
 
-                {{$imgWebp := add (add (string $img_width) "x") " webp" }}
-                {{$imgWebp_src := ($img.Resize $imgWebp).RelPermalink }}
+                <!-- {{$imgWebp := add (add (string $img_width) "x") " webp" }}
+                {{$imgWebp_src := ($img.Resize $imgWebp).RelPermalink }} -->
                 <img loading="lazy" decoding="async" class="img-fluid" width="{{$img_width}}" height="{{$img.Height}}" src="{{$imgWebp_src}}" alt="Brand Image" onerror="this.onerror=null;this.src='{{$img_src}}'">
               </div>
             </div>
