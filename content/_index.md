@@ -12,10 +12,6 @@ banner:
 brands_carousel:
   enable: true
   brand_images:
-  - "images/brands/logo-htb.png"
-  - "images/brands/logo-thm.png"
-  - "images/brands/logo-rootme.png"
-  - "images/brands/logo-gcp.png"
   - "images/brands/logo-bzhunt.png"
   - "images/brands/logo-ywh.png"
   - "images/brands/logo-ledger.png"
