@@ -225,7 +225,7 @@
             {{$img:= resources.Get .image }}
             {{$img:= $img.Resize "175x "}}
             {{$imgWebp:= $img.Resize "175x webp"}}
-            <img loading="lazy" decoding="async" class="w-100 img-fluid rounded-circle" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Team Image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            <img loading="lazy" decoding="async" class="w-1000 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Team Image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
             {{end}}
           </div>
           <h3>{{.name | markdownify}}</h3>
@@ -257,11 +257,11 @@
         <div class="row">
           {{range .office_locations}}
           <div class="col-lg-3 col-md-6 col-sm-6">
-            <div class="office-loc-item">
+            <div class="office-loc-item text-center">
               {{ if fileExists (add `assets/` .country_flag) }}
               {{$img:= resources.Get .country_flag }}
-              {{$img:= $img.Resize "80x "}}
-              {{$imgWebp:= $img.Resize "80x webp"}}
+              {{$img:= $img.Resize "60x "}}
+              {{$imgWebp:= $img.Resize "60x webp"}}
               <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Flags" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
               {{end}}
               <h3>{{.city | markdownify}}</h3>

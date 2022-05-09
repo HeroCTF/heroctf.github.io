@@ -853,7 +853,6 @@ header {
     width: calc(100% - 70px);
     top: 45px;
     left: 45px;
-    background: #fe6019;
     z-index: -1;
     border-radius: 50%;
     opacity: .15; }
