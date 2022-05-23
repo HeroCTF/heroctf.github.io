@@ -78,7 +78,7 @@ our_team:
     designation: "Winner of the two first HeroCTF editions, has been working on the HeroCTF since v3, mainly on creating systems and programming challenges. Also treasurer and working on partnerships"
   - name: "Thib"
     image: "images/about/team/Thib.jpg"
-    designation: "Cybersecurity Engineer Apprentice at ENSIBS"
+    designation: "Organiser since the first edition, I mainly work on the creation of challs in steganography. Currently studying at ENSIBS"
   - name: "iHuggsy"
     image: "images/about/team/iHuggsy.jpg"
     designation: "Cybersecurity Engineer Apprentice at ESNA"
