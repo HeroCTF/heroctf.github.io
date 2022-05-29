@@ -46,8 +46,8 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Play CTF !"
-link = "https://ctf.heroctf.fr"
+label = "Github"
+link = "https://github.com/HeroCTF"
 
 # cookies
 [cookies]

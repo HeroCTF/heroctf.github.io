@@ -42,11 +42,11 @@ our_office:
   office_locations:
   - city: "Players"
     country_flag: "images/events/player.png"
-    address_line_one: "Waiting for the event to end for statistics"
+    address_line_one: "Almost 1800 players were registered."
     address_line_two: ""
   - city: "Teams"
     country_flag: "images/events/teams.png"
-    address_line_one: "Waiting for the event to end for statistics"
+    address_line_one: "More than 1000 teams were registered."
     address_line_two: ""
   - city: "Challenges"
     country_flag: "images/events/challenges.png"
