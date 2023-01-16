@@ -21,7 +21,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Next Edition: HeroCTF V5"
-  title: "Registration open in April"
+  title: "Registration opens in April"
   description: "You can find all the solutions on our Github account."
   features_blocks:
   - icon: "las la-book"
