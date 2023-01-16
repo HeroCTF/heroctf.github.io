@@ -32,7 +32,7 @@ features:
     content: "Practice our cybersecurity skills trough challenges on many categories (web, cryptology, reverse engineering, ...)."
   - icon: "las la-users"
     title: "Play in team"
-    content: "Play with our friends in a team of 4."
+    content: "Play with our friends in a team of 5."
   - icon: "las la-trophy"
     title: "Compete"
     content: "Compete against other teams and win prices."
