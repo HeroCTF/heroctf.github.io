@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "HeroCTF - Online cybersecurity competition"
-  date: "Next edition in 2023"
+  title: "HeroCTF V5 - Online cybersecurity competition"
+  date: "12th-14th of May 2023"
   button: "Join discord"
   button_link: "https://discord.gg/mgk9bv7"
   image: "images/banner-cybersecurity.png"
@@ -20,8 +20,8 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Next Edition"
-  title: "HeroCTF v4 is now ended"
+  subtitle: "Next Edition: HeroCTF V5"
+  title: "12th-14th of May 2023"
   description: "You can find all the solutions on our Github account."
   features_blocks:
   - icon: "las la-book"
