@@ -31,7 +31,7 @@ mainSections= ["blog"]
 [contact_info]
 address = "In the cloud :)"
 phone = [""]
-email = ["heroctf@protonmail.com"]
+email = ["contact [at] heroctf.fr"]
 
 # imaging processing
 [imaging]
