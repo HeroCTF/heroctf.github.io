@@ -3,8 +3,8 @@
 banner:
   title: "HeroCTF V5 - Online cybersecurity competition"
   date: "12 - 14 May 2023"
-  button: "Join discord"
-  button_link: "https://discord.gg/mgk9bv7"
+  button: "Register for the CTF"
+  button_link: "https://ctf.heroctf.fr"
   image: "images/banner-cybersecurity.png"
 
 

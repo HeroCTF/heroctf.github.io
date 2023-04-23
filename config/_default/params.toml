@@ -46,8 +46,8 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Github"
-link = "https://github.com/HeroCTF"
+label = "Discord"
+link = "https://discord.gg/mgk9bv7"
 
 # cookies
 [cookies]
