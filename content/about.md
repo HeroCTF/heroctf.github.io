@@ -86,7 +86,7 @@ our_team:
     image: "images/about/team/Alol.jpg"
     designation: "Cybersecurity Engineer Apprentice at ESIEA"
   - name: "Saragora"
-    image: "image/about/team/Saragora.jpg
+    image: "images/about/team/Saragora.jpg"
     designation: "As a proud Breton, my colleagues call me pemp but I'm also known as william saragora."
 
 
