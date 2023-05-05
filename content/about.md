@@ -87,7 +87,7 @@ our_team:
     designation: "Cybersecurity Engineer Apprentice at ESIEA"
   - name: "Saragora"
     image: "images/about/team/Saragora.jpg"
-    designation: "As a proud Breton, my colleagues call me pemp but I'm also known as william saragora."
+    designation: "As a proud Breton, my colleagues call me pemp."
 
 
 # our office
