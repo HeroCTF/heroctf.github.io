@@ -85,7 +85,7 @@ our_team:
   - name: "Alol"
     image: "images/about/team/Alol.jpg"
     designation: "Cybersecurity Engineer Apprentice at ESIEA"
-  - name: "Saragora"
+  - name: "SuperSaragora"
     image: "images/about/team/Saragora.jpg"
     designation: "As a proud Breton, my colleagues call me pemp."
 
