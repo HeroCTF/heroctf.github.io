@@ -66,7 +66,7 @@ our_team:
   team:
   - name: "xanhacks"
     image: "images/about/team/xanhacks.png"
-    designation: "Team manager, working on infrastructure and challenge creation (mainly in the web category) and managing relationships with partners"
+    designation: "Founder of the event, working on infrastructure, finding sponsors and creating challenges (mainly Web)."
   - name: "W0rty"
     image: "images/about/team/W0rty.jpg"
     designation: "Cybersecurity Engineer Apprentice at ESNA"
@@ -85,9 +85,6 @@ our_team:
   - name: "Alol"
     image: "images/about/team/Alol.jpg"
     designation: "Cybersecurity Engineer Apprentice at ESIEA"
-  - name: "SuperSaragora"
-    image: "images/about/team/Saragora.jpg"
-    designation: "As a proud Breton, my colleagues call me pemp."
 
 
 # our office
