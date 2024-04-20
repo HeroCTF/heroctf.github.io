@@ -1,8 +1,8 @@
 ---
 # banner
 banner:
-  title: "HeroCTF V5 - Online cybersecurity competition"
-  date: "12 - 14 May 2023"
+  title: "HeroCTF V6 - Online cybersecurity competition"
+  date: "October 2024"
   button: "Github Account"
   button_link: "https://github.com/HeroCTF"
   image: "images/banner-cybersecurity.png"
@@ -21,8 +21,8 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Next Edition: HeroCTF V6"
-  title: "New edition in 2024" 
-  description: "You can find challenges of previous editions on Github"
+  title: "New edition in October 2024" 
+  description: "We are preparing for the 6th edition of HeroCTF. In the meantime, you can find the challenges from our previous editions on our Github account."
   features_blocks:
   - icon: "las la-book"
     title: "Learn"

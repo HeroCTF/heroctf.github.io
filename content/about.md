@@ -85,7 +85,15 @@ our_team:
   - name: "Alol"
     image: "images/about/team/Alol.jpg"
     designation: "Cybersecurity Engineer Apprentice at ESIEA"
-
+  - name: "Malon"
+    image: "images/about/team/Malon.png"
+    designation: "Cybersecurity Engineer"
+  - name: "Mizu"
+    image: "images/about/team/Mizu.jpg"
+    designation: "Cybersecurity Engineer"
+  - name: "Ghizmo"
+    image: "images/about/team/Ghizmo.jpg"
+    designation: "Cybersecurity Engineer"
 
 # our office
 our_office:
