@@ -69,7 +69,7 @@ our_team:
     designation: "Founder of the event, working on infrastructure, finding sponsors and creating challenges (mainly Web)."
   - name: "W0rty"
     image: "images/about/team/W0rty.jpg"
-    designation: "Cybersecurity Engineer Apprentice at ESNA"
+    designation: "Cybersecurity Engineer - Pentester @ Synacktiv"
   - name: "SoEasY"
     image: "images/about/team/SoEasY.jpg"
     designation: "Communication manager, part of HeroCTF team since day one. Because of my attraction for low level, I mainly develop reverse engineering and binary exploitation challenges"
