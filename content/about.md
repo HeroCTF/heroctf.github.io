@@ -84,7 +84,7 @@ our_team:
     designation: "Cybersecurity Engineer Apprentice at ESNA"
   - name: "Alol"
     image: "images/about/team/Alol.jpg"
-    designation: "Cybersecurity Engineer Apprentice at ESIEA"
+    designation: "I like Crypto, PWN, RE and making people suffer (in a fun way) (for me)"
   - name: "Malon"
     image: "images/about/team/Malon.png"
     designation: "Cybersecurity Engineer"
