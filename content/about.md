@@ -87,7 +87,7 @@ our_team:
     designation: "I like Crypto, PWN, RE and making people suffer (in a fun way) (for me)"
   - name: "Malon"
     image: "images/about/team/Malon.png"
-    designation: "Cybersecurity Engineer"
+    designation: "Sometimes inspired to cook forensics chall that doesn't only requires to use strings command. Graduated from ESIEA, working in a CSIRT."
   - name: "Mizu"
     image: "images/about/team/Mizu.jpg"
     designation: "Cybersecurity Engineer"
