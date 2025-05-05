@@ -50,7 +50,7 @@ our_office:
     address_line_two: ""
   - city: "Challenges"
     country_flag: "images/events/challenges.png"
-    address_line_one: "As for the last editions, we have proposed a large number of challenges in all categories of CTF (web, forensics, reverse, pwn, steganography, ...)"
+    address_line_one: "As for the last editions, we have proposed a large number of challenges in all categories of CTF (web, forensics, reverse, pwn, steganography...)"
     address_line_two: ""
   - city: "Prizes"
     country_flag: "images/events/prizes.png"

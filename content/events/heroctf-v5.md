@@ -10,7 +10,7 @@ our_mission:
   title: "HeroCTF v5"
   description: "This 5th edition took place from 12 to 14 May 2023. This online cybersecurity competition will consist of a wide variety of challenges. The best teams will leave with impressive prizes."
 
-  image: "images/events/HeroCTF_v4_banner.png"
+  image: "images/events/HeroCTF_v5_banner.png"
 
 
 # our team
@@ -50,7 +50,7 @@ our_office:
     address_line_two: ""
   - city: "Challenges"
     country_flag: "images/events/challenges.png"
-    address_line_one: "As for the last editions, we have proposed a large number of challenges in all categories of CTF (web, forensics, reverse, pwn, steganography, ...)"
+    address_line_one: "As for the last editions, we have proposed a large number of challenges in all categories of CTF (web, forensics, reverse, pwn, steganography...)"
     address_line_two: ""
   - city: "Prizes"
     country_flag: "images/events/prizes.png"
