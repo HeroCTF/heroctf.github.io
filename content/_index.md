@@ -3,8 +3,8 @@
 banner:
   title: "HeroCTF V7 - Online cybersecurity competition"
   date: "November 2025"
-  button: "Github Account"
-  button_link: "https://github.com/HeroCTF"
+  button: "Access CTF!"
+  button_link: "https://ctf.heroctf.fr"
   image: "images/banner-cybersecurity.png"
 
 
