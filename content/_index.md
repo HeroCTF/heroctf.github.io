@@ -26,24 +26,24 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Next Edition: HeroCTF V7"
-  title: "New edition in November 2025" 
-  description: "We are preparing for the 7th edition of HeroCTF. In the meantime, you can find the challenges from our previous editions on our Github account."
+  title: "New Edition Coming November 2025"
+  description: "We are preparing for the 7th edition of HeroCTF. In the meantime, you can find challenges from our previous editions on our GitHub page."
   features_blocks:
   - icon: "las la-book"
     title: "Learn"
-    content: "Learn new cybersecurity skills thanks to challenges sorted by difficulty."
+    content: "Develop new cybersecurity skills through challenges organized by difficulty."
   - icon: "las la-laptop-code"
     title: "Practice"
-    content: "Practice our cybersecurity skills trough challenges on many categories (web, cryptology, reverse engineering, ...)."
+    content: "Improve your cybersecurity skills by solving challenges across various categories (web, cryptography, reverse engineering, and more)."
   - icon: "las la-users"
-    title: "Play in team"
-    content: "Play with our friends in a team of 5."
+    title: "Play in a Team"
+    content: "Team up with friends and tackle challenges together."
   - icon: "las la-trophy"
     title: "Compete"
-    content: "Compete against other teams and win prices."
+    content: "Compete against other teams and win prizes."
   - icon: "las la-code-branch"
     title: "Open Source"
-    content: "All the challenges source code and write-ups are uploaded on our Github."
+    content: "All challenge source code and write-ups are available on our GitHub."
 
 # intro_video
 intro_video:   
