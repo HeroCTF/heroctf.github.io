@@ -13,12 +13,16 @@ brands_carousel:
   enable: true
   brand_images:
   - "images/brands/logo-bzhunt.png"
+  - "images/brands/logo-epieos.png"
+  - "images/brands/logo-synacktiv.jpg"
+  - "images/brands/logo-dfsec.png"
+  - "images/brands/logo-dga.png"
+  - "images/brands/logo-ackuracy.png"
+  - "images/brands/logo-akailabs.png"
   - "images/brands/logo-ywh.png"
   - "images/brands/logo-ledger.png"
   - "images/brands/logo-algosecure.png"
-  - "images/brands/logo-dga.png"
-  - "images/brands/logo-synacktiv.png"
-  - "images/brands/logo-lexfo.png"
+  - "images/brands/logo-lexfo.jpg"
   - "images/brands/logo-opencyber.png"
   - "images/brands/logo-rootme.png"
 
