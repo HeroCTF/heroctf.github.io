@@ -36,7 +36,7 @@ our_team:
 # our office
 our_office:
   enable: true
-  subtitle: "Statistics of the fourth edition"
+  subtitle: "Statistics of the fifth edition"
   title: "Statistics"
   description: "Here are the statistics of the 5th edition of this CTF."
   office_locations:
