@@ -6,27 +6,32 @@ hasChildren = true
 
   [[main]]
   parent = "Events"
+  name = "HeroCTF v7"
+  url = "events/heroctf-v7"
+  weight = 6
+
+  parent = "Events"
   name = "HeroCTF v6"
   url = "events/heroctf-v6"
-  weight = 1
+  weight = 7
 
   [[main]]
   parent = "Events"
   name = "HeroCTF v5"
   url = "events/heroctf-v5"
-  weight = 2
+  weight = 8
 
   [[main]]
   parent = "Events"
   name = "HeroCTF v4"
   url = "events/heroctf-v4"
-  weight = 3
+  weight = 9
 
   [[main]]
   parent = "Events"
   name = "HeroCTF v3"
   url = "events/heroctf-v3"
-  weight = 4
+  weight = 10
 
 [[main]]
 name = "About"
